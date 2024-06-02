@@ -1,7 +1,7 @@
 # 8086-Zadaca3
 
 ![Screenshot (5)](https://github.com/tamaraatanasova/8086-Zadaca3/blob/main/zad3.png)
-
+![Screenshot (5)](https://github.com/tamaraatanasova/8086-Zadaca3/blob/main/2.png)
 
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
 
